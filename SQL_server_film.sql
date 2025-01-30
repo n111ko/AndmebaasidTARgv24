@@ -13,7 +13,7 @@ DROP TABLE film
 
 --andmete sisestamine tabelisse
 INSERT INTO film(filmNimetus, aasta, eelarveHind)
-VALUES(' ', 2024, 55555.5)
+VALUES(' ', 2024, 55555.5);
 
 DELETE FROM film WHERE filmID = 5;
 
