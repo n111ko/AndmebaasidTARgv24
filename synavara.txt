@@ -3,3 +3,10 @@ Andmetüüp:
 2. Arv (INT, SMALLINT, Decimal(5, 2) kus 5 - kõik arvud ja 2 - peale koma)
 3. Loogika (bit, bool, boolean, true/false)
 4. Kuupäeva (date/time, date, time)
+-----------------------------------------------
+Piirangud / Ограничения
+* PRIMARY KEY - атрибут(или комбинация атрибутов), который ункально определяет строку.
+* FOREIGN KEY - seos - связь с PK другой таблицы
+* NOT NULL
+* UNIQUE
+* CHECK - valik
